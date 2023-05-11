@@ -1,0 +1,7 @@
+.details {
+    display: flex;
+    flex-direction: column;
+}
+.div1{
+    text-align: justify;
+}
